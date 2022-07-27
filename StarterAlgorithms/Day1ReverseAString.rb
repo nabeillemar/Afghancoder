@@ -38,3 +38,5 @@ def reverse_string(str)
 end 
 
 reverse_string("hi")
+
+hello text 
